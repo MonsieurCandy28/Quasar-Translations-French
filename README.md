@@ -1,2 +1,2 @@
 # Quasar-Translations-French
-Traductions en Francais de tout le sripts de Quasar
+Traductions en Francais de tout le scripts de Quasar
